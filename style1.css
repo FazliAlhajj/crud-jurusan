@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: greenyellow;
+    overflow: hidden;
+}
+
+
+h1{
+    color: black;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+th{
+    background-color: blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+td{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
